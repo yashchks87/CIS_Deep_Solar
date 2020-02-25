@@ -1,4 +1,4 @@
-# CIS_Deep_Solar
+# Deep Solar
 Using the Deep learning Data to understand adaptability of Solar Panel installations across US.
 
 ## Project brief
