@@ -1,5 +1,5 @@
 # Deep Solar
-Using the Deep learning Data to understand adaptability of Solar Panel installations across US.
+Using the deep learning data to understand adaptability of solar panel installations across US.
 
 ## Project brief
 The dataset we have chosen is a raw product of deep learning project conducted by Stanford University engineers that used Satellite Imagery to identify location and size of the Photo Voltaic panels across the US. It contains of approximately **73K rows and 169 Columns** consisting of information about, average household income, Number of tiles/solar system(solar panels) installed , size of installation etc. in residential as well as non-residential areas for all the counties/states. For clear visualization we have used data from California, Texas, New York, Florida and Nevada.
